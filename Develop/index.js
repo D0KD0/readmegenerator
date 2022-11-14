@@ -26,7 +26,7 @@ const questions = [
         message: 'Please provide a description of your project'
     },
     {
-        type: 'rawlist',
+        type: 'list',
         name: 'license',
         choices: [
             'MIT',

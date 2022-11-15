@@ -28,7 +28,7 @@
 
 
   ## Screenshot
-  <img src="./assets/sample.png" /> 
+  <img src="./Develop/assets/sample.png" /> 
 
 
   ## Lesson-Learned

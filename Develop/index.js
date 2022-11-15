@@ -30,7 +30,9 @@ const questions = [
         name: 'license',
         choices: [
             'MIT',
+            'Apache 2.0',
             'GPLv3',
+            'IBM',
             'AGPL',
             'No license'
         ]
@@ -44,6 +46,16 @@ const questions = [
         type: 'input',
         name: 'usage',
         message: 'Something user should know?'
+    },
+    {
+        type: 'input',
+        name: 'screenshot',
+        message: 'Add screenshot location ex) ./assets/screenshot.png'
+    },
+    {
+        type: 'input',
+        name: 'lessonLearned',
+        message: 'Any lesson learned?'
     },
     {
         type: 'input',

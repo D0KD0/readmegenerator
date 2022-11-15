@@ -80,7 +80,7 @@ function generateMarkdown(data) {
   - [Installation](#installation)
   - [Usage](#usage)
   - [Screenshot] (#screenshot)
-  - [Lesson Learned] (#lesson learned)
+  - [Lesson Learned] (#lesson-learned)
   - [Credits](#credits)
   - [License](#license)
   \n
@@ -95,7 +95,7 @@ function generateMarkdown(data) {
   ## Screenshot
   <img src="${data.screenshot}" /> \n
 
-  ## Lesson Learned
+  ## Lesson-Learned
   ${data.lessonLearned} \n
 
   ## Credits

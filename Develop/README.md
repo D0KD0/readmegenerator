@@ -4,7 +4,7 @@
 
   ## Description
 
-  it generates readme file
+  it generates readme file for users
 
 
   ## Table of Contents
